@@ -2,16 +2,18 @@
 
 Just a simple LiaScript demo course, see the rendered version at:
 
-** https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/MeetupDemo/master/README.md **
+https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/MeetupDemo/master/README.md
 
-**@Github:** https://github.com/andre-dietrich/MeetupDemo
+**Github project:**
+
+https://github.com/andre-dietrich/MeetupDemo
 
 **Further Usefull links:**
 
 * The project: http://LiaScript.github.io
 * Atom plugins:
-  * https://atom.io/packages/liascript-preview
-  * https://atom.io/packages/liascript-snippets
+  * Previewer:  https://atom.io/packages/liascript-preview
+  * Snippets & help:  https://atom.io/packages/liascript-snippets
 
 
 ## The eLab (Pre-History)
