@@ -46,7 +46,7 @@ Just a simple LiaScript demo course, see the rendered version at:
 
 
 
-## Code
+## Programming
 
 
 
