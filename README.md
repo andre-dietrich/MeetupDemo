@@ -178,10 +178,10 @@ else {
 ```
 <script>
   // insert the JSON dataset into the local variable data
-  let data = @code(1);
+  let data = @input(1);
 
   // eval the script that uses this dataset
-  eval(`@code(0)`);
+  eval(`@input(0)`);
 </script>
 
 
