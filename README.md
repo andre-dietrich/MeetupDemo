@@ -191,9 +191,7 @@ else {
 @panorama(1,https://pannellum.org/images/cerro-toco-0.jpg,{})
 
 
-```json
-@panorama(0,https://pannellum.org/images/bma-1.jpg)
-
+```json @panorama(0,https://pannellum.org/images/bma-1.jpg)
 {
     "pitch": 14.1,
     "yaw": 1.5,
